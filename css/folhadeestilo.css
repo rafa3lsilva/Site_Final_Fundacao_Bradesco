@@ -99,18 +99,18 @@ footer .footer-text a{color: #fff;}
 
 /* definir as propriedades da página clientes */
 #clientes-code {width: 75%; position: relative; float: left;}
-#clientes-code .config-clientes {width: 40%; border: 1px solid #b50909; margin-left: 1.5%; padding: 1%; float: left;}
+#clientes-code .config-clientes {width: 40%; border: 1px solid #b50909; margin-left: 1.5%; margin-top: 1.5%; padding: 1%; float: left;}
 #clientes-code .config-clientes img {width: 60%; margin-left: 20%; margin-bottom: 20px;}
 #clientes-code .config-clientes p {width: 90%; margin-left: 5%; font-size: 1.2em; margin-bottom: 20px; text-align: center;}
 #clientes-code .config-clientes p a{color: #111;}
 
 /*definir as propriedades da página sobre*/
 #container-sobre{width:65%; margin-left:5%;float: left; position: relative; height: 80%; background-color: #fff; top: 10%;}
-#txt-sobre {width:40%; float: left; position: relative; padding: 5% }
-#txt-sobre p {width:100%;position: relative;float: left; }
-#txt-sobre dl {width: 60%;}
-#img-conteudo-sobre{width: 45%; position: relative;float: left; padding: 2%}
-#img-conteudo-sobre img{width: 100%;}
+#text-sobre {width:40%; float: left; position: relative; padding: 2% }
+#text-sobre p {width:100%;position: relative;float: left; }
+#text-sobre dl {width: 60%;}
+#img-conteudo-sobre{width: 100%; position: relative; float: left; padding: 2%}
+#img-conteudo-sobre img{width: 90%;}
 
 /* definir as propriedades da página contato */
 #txt-contato {width: 100%; height: 100%;}
